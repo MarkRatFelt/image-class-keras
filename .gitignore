@@ -184,3 +184,4 @@ venv.bak/
 .mypy_cache/
 
 /weed_not_weed.model
+/.idea/
